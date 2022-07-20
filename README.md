@@ -5,7 +5,7 @@ Criei um jogo de Pong utilizando as ferramentas do Strach e personalizando as co
 https://scratch.mit.edu/projects/677795571
 
 ## Resultado
-Neste projeto aproveitei para usar a minha criatividade e criei um background personalizado, assim como pensei uma combinação de cores autêntica.
+Neste projeto aproveitei para usar a minha criatividade e criei um background personalizado, assim como pensei uma combinação de cores autêntica. :smiley_cat:
 
 <img><img src="https://i.ibb.co/KwnCYXr/pong.png"></img>
 
